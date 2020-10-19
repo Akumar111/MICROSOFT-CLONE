@@ -1,4 +1,4 @@
-# myTunes Landing Page
+# Landing Page
 
 > Landing page modeled after Microsoft Homepage.
 
